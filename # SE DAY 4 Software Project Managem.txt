@@ -1,0 +1,13 @@
+# SE DAY 4: Software Project Management
+
+## 1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
+   - **Answer:** Timely delivery is crucial because it ensures that the software meets the needs of stakeholders within a specified timeframe, maintaining client satisfaction and avoiding potential cost overruns. Project managers can ensure deadlines are met by setting realistic timelines, continuously monitoring progress, and using project management tools to track milestones.
+
+## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
+   - **Answer:** Effective cost control helps keep the project within budget, enhancing profitability and resource efficiency. Strategies for preventing budget overruns include careful budget planning, regular monitoring of expenses, and implementing change control processes to manage scope changes.
+
+## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+   - **Answer:** Agile is iterative and allows for flexibility, which is beneficial for projects that require adaptability. However, it can lack predictability. Waterfall, on the other hand, is sequential and predictable but lacks flexibility. The choice between Agile and Waterfall depends on project requirements and adaptability needs.
+
+## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+   - **Answer:** Agile is ideal for projects with evolving requirements, such as web
